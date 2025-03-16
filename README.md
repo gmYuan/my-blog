@@ -1,8 +1,9 @@
 # my-blog
-个人技术文章目录
+
+个人技术学习 目录
 
 
-## P1-Algo
+## K1-Algo
 
 
 <details open>
@@ -17,10 +18,20 @@
 
 <details open>
 
-<summary> Tag1.2 链表- 反转/指针处理 </summary>
+<summary> Tag1.2 链表- 反转 </summary>
 
 - [Q10-code206_反转链表-642y](https://github.com/gmYuan/my_algo/blob/main/Q10-code206/2.2-code206.md)
 
+</details>
+
+
+<details open>
+
+<summary> Tag1.3 链表- 双指针 </summary>
+
+- [Q11-code876_链表的中间结点-15y]()
+
+- [Q13-code160_相交链表-183y]()
 
 </details>
 
@@ -54,8 +65,11 @@
 
 - [Q9-code4_寻找两个正序数组的中位数-137y](https://github.com/gmYuan/my_algo/blob/main/Q9-code4/2.2-code4.md)
 
+- [Q12-acw790_数的三次方根-n]()
 
 </details>
+
+
 
 
 
@@ -67,8 +81,17 @@
 
 - [Q1- 对webpack的理解 + 它解决了什么问题]()
 
-- [Q2- 如何安装本地webpack + webpack的最简使用方法是什么]()
+- [Q2.1- webpack的核心配置含义1]()
 
+- [Q2.2- webpack的核心配置含义2]()
 
 </details>
 
+
+<details open>
+
+<summary> T2- webpack配置相关原理 </summary>
+
+- [Q3- 模块化规范相关]()
+
+</details>
